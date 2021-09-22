@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="ddns-dynu",
-    version="0.2.0",
+    version="0.2.1",
     author="agfn",
     author_email="lavender.tree9988@gmail.com",
     description="ddns for dynu.com",
